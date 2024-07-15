@@ -1,10 +1,9 @@
 # Hi there, I'm Nency Bhadani! 👋
-!Profile views
-!GitHub followers
-!GitHub User's stars
-!Twitter Follow
-!LinkedIn
-!Portfolio
+![Profile views](https://komarev.com/ghpvc/?username=nencybhadani&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/nencybhadani?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/nencybhadani?style=social)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0A66C2)
+![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=github)
 
 Welcome to my GitHub profile! I'm a dedicated Backend Developer, passionate about creating innovative projects. Here you'll find some of my work and contributions to the tech community.
 
@@ -18,10 +17,10 @@ Welcome to my GitHub profile! I'm a dedicated Backend Developer, passionate abou
 
 ## 🛠️ Technologies & Tools
 
-![.Net core](https://img.shields.io/badge/-.Netcore-000?&logo=.Netcore)
-![.Net MVC](https://img.shields.io/badge/-.NetMVC-000?&logo=.NetMVc)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
-![Nopcommerce](https://img.shields.io/badge/-Nopcommerce-000?&logo=Nopcommerce)
+![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.NET MVC](https://img.shields.io/badge/.NET%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![NopCommerce](https://img.shields.io/badge/NopCommerce-4E8BFC?style=for-the-badge&logo=nopcommerce&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
@@ -37,9 +36,8 @@ Welcome to my GitHub profile! I'm a dedicated Backend Developer, passionate abou
 
 ## 🔗 Connect with Me
 
-![LinkedIn](https://www.linkedin.com/in/nency-bhadani/)
-![Portfolio](https://github.com/nencybhadani)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&color=0A66C2)](https://www.linkedin.com/in/nency-bhadani/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?&logo=github)](https://github.com/nencybhadani)
 ---
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate.
