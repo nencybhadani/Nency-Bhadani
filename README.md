@@ -18,19 +18,18 @@ Welcome to my GitHub profile! I'm a dedicated Backend Developer, passionate abou
 
 ## 🛠️ Technologies & Tools
 
-!.Net core
-!.Net MVC
-!SQL
-!Nopcommerce
-!JavaScript
-!React
-!Git
-!HTML5
-!CSS3
-!VS Code
-!NPM
-!Webpack
-
+![.Net core](https://img.shields.io/badge/-.Netcore-000?&logo=.Netcore)
+![.Net MVC](https://img.shields.io/badge/-.NetMVC-000?&logo=.NetMVc)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+![Nopcommerce](https://img.shields.io/badge/-Nopcommerce-000?&logo=Nopcommerce)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual%20Studio%20Code)
+![NPM](https://img.shields.io/badge/-NPM-000?&logo=NPM)
+![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 ## 📈 GitHub Stats
 
 !Nency Bhadani's GitHub Stats
